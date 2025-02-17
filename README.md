@@ -14,7 +14,7 @@ An essential framework for AI, fostering thinking, creation, and evolution.
 ## 🔥 核心理念：M-C-E
 
 *   🧠 **Mind (思维)**：像人一样理解世界，而不仅仅是文字。
-*   🎨 **Create (创造)**：产生真正新颖、有价值的输出，它将超越你的想象。
+*   🎨 **Create (创造)**：产生真正新颖、有价值的输出，超越你的想象。
 *   🌱 **Evolve (进化)**：从每一次互动中学习，不断成长，永不止步。
 
 ## 🚀 优势与独特之处
@@ -27,11 +27,13 @@ An essential framework for AI, fostering thinking, creation, and evolution.
 
 ## ⚡ 快速开始
 
-1.  **安装**:
+1.  **获取代码**:
 
     ```bash
-    pip install essential-framework
+    git clone https://github.com/your-username/essential-framework.git
+    cd essential-framework
     ```
+    将 `your-username` 替换为你的 GitHub 用户名。
 
 2.  **使用**:
 
@@ -68,6 +70,7 @@ An essential framework for AI, fostering thinking, creation, and evolution.
     *   探索 AI 与人类的协同进化。
 
 ## 🙌 贡献者
+
 *   在此添加为项目做出贡献的人
 
 ## 🤝 如何贡献
@@ -85,5 +88,6 @@ An essential framework for AI, fostering thinking, creation, and evolution.
 ## 📄 许可证
 
 本项目采用 [MIT License](LICENSE)。
+
 ## 📚引用
 如果你在研究中使用了EssentialFramework，请引用以下内容
