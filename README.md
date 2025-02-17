@@ -83,8 +83,6 @@ An essential framework for AI, fostering thinking, creation, and evolution.
 *   贡献代码
 *   分享使用案例
 
-请参考 [CONTRIBUTING.md](CONTRIBUTING.md)（如果你有的话）了解更多细节。
-
 ## 📄 许可证
 
 本项目采用 [MIT License](LICENSE)。
